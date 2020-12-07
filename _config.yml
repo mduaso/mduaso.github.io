@@ -1,18 +1,18 @@
 # Site
-repository: sproogen/resume-theme
+repository: mduaso
 favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Mireia Duaso
+title: Business Analyst
+email: mireiaduaso@gmail.com
+website: www.github.com/mduaso/
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 twitter_username: facespics
